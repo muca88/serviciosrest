@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Newman" tests="2" time="0.944">
+  <testsuite name="Peticion1" id="48346e3d-5d8a-4486-b6a7-228851fd92a6" timestamp="2021-02-08T23:52:07.278Z" tests="1" failures="0" errors="0" time="0.740">
+    <testcase name="Status code is 200" time="0.740" classname="Newman"/>
+  </testsuite>
+  <testsuite name="Peticion2" id="89d2e96a-bd40-403a-9582-bf673d25bd3d" timestamp="2021-02-08T23:52:07.278Z" tests="0" failures="0" errors="0" time="0.204"/>
+</testsuites>
